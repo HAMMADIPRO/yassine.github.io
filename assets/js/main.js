@@ -1,11 +1,3 @@
-function downloadFile(){
-    var link=document.createElement('a');
-    document.body.appendChild(link);
-    link.href= 'https://drive.google.com/file/d/10H4XQZWoUsHwy9Y20oWN39FAWcHMWw0l/view?usp=sharing';
-    link.download = '';
-    link.target='blank';
-    link.click();
-}
 
 
 
