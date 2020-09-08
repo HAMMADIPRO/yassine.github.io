@@ -623,7 +623,7 @@ img{
 /*===== VARIABLES CSS =====*/
 :root{
   /*===== Colores =====*/
-  --input-color: #80868B;
+  --input-color: var(--white-color);
   --border-color: var(--text-color);
 
 }
