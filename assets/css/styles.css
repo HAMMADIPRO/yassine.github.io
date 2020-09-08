@@ -344,8 +344,8 @@ img{
     display: flex;
     justify-content: center;
     padding-top: 0rem;
-    width: 100px;
-    height: 100px;
+    width: 140px;
+    height: 140px;
     background-color: var(--first-color);
     border-radius: 50%;
     overflow: hidden;
