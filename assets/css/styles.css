@@ -343,9 +343,9 @@ img{
 .about__img{
     display: flex;
     justify-content: center;
-    padding-top: 1rem;
-    width: 120px;
-    height: 120px;
+    padding-top: 0rem;
+    width: 100px;
+    height: 100px;
     background-color: var(--first-color);
     border-radius: 50%;
     overflow: hidden;
@@ -513,6 +513,12 @@ img{
     font-size: 1.4rem;
     margin-right: var(--mb-1);
 }
+
+.bx{
+    font-size: 2rem;
+    margin-right: var(--mb-1);
+}
+
 .footer__social:hover{
     color: var(--first-color);
 }
@@ -573,8 +579,8 @@ img{
         padding: 4rem 0;
     }
     .about__img{
-        width: 200px;
-        height: 200px;
+        width: 150px;
+        height: 150px;
     }
     .about__img img{
         width: 165px;
